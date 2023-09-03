@@ -82,7 +82,6 @@ Em resumo, a Computação em Nuvem é uma transformação tecnológica que mudou
 
 # Capítulo 2: Vantagens da Computação em Nuvem
 
-
 A computação em nuvem revolucionou a forma como as empresas e indivíduos gerenciam, armazenam e acessam seus dados e recursos tecnológicos. Neste capítulo, exploraremos as inúmeras vantagens que a computação em nuvem oferece, abrangendo desde a escalabilidade até a eficiência operacional. Essas vantagens têm impulsionado a adoção generalizada da computação em nuvem em diversos setores e indústrias.
 
 **1. Escalabilidade e Elasticidade:**
